@@ -55,6 +55,22 @@ h2 { margin-top: 2.2rem; line-height: 1.25; }
   border-radius: 14px;
 }
 
+.platforms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 24px 0;
+}
+
+.platforms span {
+  padding: 8px 14px;
+  color: var(--accent);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-weight: 700;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
