@@ -4,4 +4,4 @@ Repository pubblico contenente esclusivamente le pagine richieste per assistenza
 
 Il codice sorgente delle app è conservato in repository privati separati.
 
-Versioni supportate: **iOS 1.0.1** e **Android 1.0.0**.
+Versioni supportate: **iOS 1.0.3** e **Android 1.0.0**.
